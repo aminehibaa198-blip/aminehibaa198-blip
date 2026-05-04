@@ -40,19 +40,8 @@
 
 ---
 
-# ✨ GitHub Aesthetic Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminehiba198-blip&show_icons=true&theme=omni&bg_color=00000000&hide_title=true" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminehiba198-blip&theme=prussian&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehiba198-blip&layout=compact&theme=omni&bg_color=00000000" height="170"/>
-</p>
 
 ---
 

@@ -1,51 +1,76 @@
-<h1 align="center">✨ Hi, I'm Hiba ✨</h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/w4C2rjV.gif" width="100%" />
+</p>
+
+<h1 align="center">🌸 Hiba — Creative Web Developer 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F78FB3&center=true&vCenter=true&width=440&lines=Web+Developer;Future+AI+Engineer;Passionate+About+Design+%26+Code;Always+Learning+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Web+Developer;Future+AI+Engineer;Aesthetic+Design+Lover;Always+Learning+%F0%9F%8C%B8" />
 </p>
 
 ---
 
-## 💗 About Me
-- 🌸 Web developer  
-- 🎨 I love clean UI/UX  
-- 🌱 Currently learning: **React & JavaScript**  
-- ✨ I enjoy building creative and aesthetic projects  
+# 💕 About Me  
+✨ A creative soul who loves turning ideas into beautiful interfaces  
+🎨 Passionate about **aesthetic UI/UX**  
+🌱 Currently learning: **React, JavaScript, AI basics**  
+💫 Always improving my code & design skills  
+🧋 Lover of pastel colors, minimal design & productivity  
 
 ---
 
-## 🧰 Tech Stack
+# 🎀 Aesthetic Tech Stack  
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-FD8A8A?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FE9CC6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FCE38A?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-B8E1FF?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,react,figma,vscode,github&theme=light" height="120"/>
+</p>
+
+---
+
+# 🌈 Soft Pastel Skill Badges  
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-FAB6D2?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-FACDE3?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FCEEA7?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-BDE0FE?style=for-the-badge&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-D7A9E3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# ✨ GitHub Aesthetic Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aminehiba198-blip&show_icons=true&theme=rose_pine" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aminehiba198-blip&show_icons=true&theme=omni&bg_color=00000000&hide_title=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehiba198-blip&layout=compact&theme=rose_pine" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminehiba198-blip&theme=prussian&hide_border=true" height="170"/>
 </p>
 
----
-
-## 🔥 Streak Stats
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=aminehiba198-blip&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehiba198-blip&layout=compact&theme=omni&bg_color=00000000" height="170"/>
 </p>
 
 ---
 
+# 🌸 Soft Aesthetic Divider  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78FB3&height=120&section=footer" />
+  <img src="https://i.imgur.com/ppY7j5W.gif" width="60%" />
+</p>
+
+---
+
+# 🦋 Aesthetic Quote  
+<p align="center">
+  <em>"Code with purpose, design with heart, shine with confidence." ✨</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFB6C1&section=footer" />
 </p>

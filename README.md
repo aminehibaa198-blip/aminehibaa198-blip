@@ -10,4 +10,4 @@
 </a>
 
 </div>
-    
+    <img src="https://raw.githubusercontent.com/aminehibaa198-blip/aminehibaa198-blip/main/assets/journey.svg" width="100%" alt="Dev Journey"/>

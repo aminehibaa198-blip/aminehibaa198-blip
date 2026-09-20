@@ -11,12 +11,12 @@
 
 </div>
     <img src="https://raw.githubusercontent.com/aminehibaa198-blip/aminehibaa198-blip/main/assets/journey.svg" width="100%" alt="Dev Journey"/>
-    ## 🪐 About Me
+  🪐 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
-## 🛠️ Tech Constellation
+🛠️ Tech Constellation
 
 <div align="center">
 

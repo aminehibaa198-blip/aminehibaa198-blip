@@ -40,22 +40,7 @@
 
 </div>
 
-<pre>
-┌─ hiba@nebula ───────────────────────────────┐
-│ $ whoami
-│ > Hiba Amine
-│ > Full Stack Development student
-│ > Filière: Développement Digital
-│
-│ $ cat currently_learning.txt
-│ > HTML • CSS • JavaScript • PHP
-│ > Python • SQL • Git & GitHub
-│
-│ $ cat goals.txt
-│ > Build clean, thoughtful, functional web apps
-│ > Keep learning, one repo at a time 🌙
-└───────────────────────────────────────────────┘
-</pre>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=42E8E0&center=false&vCenter=true&width=560&height=30&lines=%24+git+commit+-m+%22learning+something+new+today%22;%24+echo+%22still+debugging...+%F0%9F%94%8D%22;%24+python3+dream_big.py" alt="terminal typing" />
 

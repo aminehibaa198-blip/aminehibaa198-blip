@@ -10,4 +10,18 @@
 </a>
 
 </div>
-    <img src="https://raw.githubusercontent.com/aminehibaa198-blip/aminehibaa198-blip/main/assets/journey.svg" width="100%" alt="Dev Journey"/>
+    <img src="https://raw.githubusercontent.com/aminehibaa198-blip/aminehibaa198-blip/main/assets/journey.svg" width="100%" alt="Dev Journey"/>## 🪐 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=42E8E0&center=false&vCenter=true&width=560&height=30&lines=%24+git+commit+-m+%22learning+something+new+today%22;%24+echo+%22still+debugging...+%F0%9F%94%8D%22;%24+python3+dream_big.py" alt="terminal typing" />
+
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</td>
+</tr>
+</table>
+    

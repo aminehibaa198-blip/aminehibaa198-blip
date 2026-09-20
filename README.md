@@ -16,6 +16,29 @@
 <table>
 <tr>
 <td width="55%" valign="top">
+## 🛠️ Tech Constellation
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-FF6EC4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-A78BFA?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-7873F5?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+**Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/PHP-42E8E0?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-60A5FA?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-FF6EC4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-7873F5?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 <pre>
 ┌─ hiba@nebula ───────────────────────────────┐

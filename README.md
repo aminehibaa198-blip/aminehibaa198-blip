@@ -76,7 +76,18 @@ Short description of what it does and what you used to build it.
 </td>
 </tr>
 </table>
+## ✨ GitHub Universe
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aminehibaa198-blip&show_icons=true&theme=radical&hide_border=true&bg_color=1a1636&title_color=ff6ec4&icon_color=42e8e0&text_color=f1efff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminehibaa198-blip&theme=radical&hide_border=true&background=1a1636&ring=ff6ec4&fire=ff6ec4&currStreakLabel=42e8e0" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehibaa198-blip&layout=compact&theme=radical&hide_border=true&bg_color=1a1636&title_color=ff6ec4&text_color=f1efff" width="48%"/>
+
+</div>
 
 
     

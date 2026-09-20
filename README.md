@@ -50,6 +50,32 @@
 </td>
 </tr>
 </table>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌸 Project One
+Short description of what it does and what you used to build it.
+<br/>
+<img src="https://img.shields.io/badge/HTML-FF6EC4?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-A78BFA?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-7873F5?style=flat-square&logo=javascript&logoColor=white"/>
+<br/><br/>
+<a href="#">🔗 View Repository</a>
+
+</td>
+<td width="50%">
+
+### 🌙 Project Two
+Short description of what it does and what you used to build it.
+<br/>
+<img src="https://img.shields.io/badge/PHP-42E8E0?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-60A5FA?style=flat-square&logo=mysql&logoColor=white"/>
+<br/><br/>
+<a href="#">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
 
 
 
